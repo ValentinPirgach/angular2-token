@@ -4,6 +4,7 @@ export interface SignInData {
     email:                  string;
     password:               string;
     userType?:              string;
+    [propName: string]:     any;
 }
 
 export interface RegisterData {
