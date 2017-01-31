@@ -1,7 +1,5 @@
 # Compiled Files
-*.js
 *.map
-*.d.ts
 
 # Library directories
 node_modules
